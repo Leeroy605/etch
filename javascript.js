@@ -8,6 +8,7 @@ body.appendChild(title);
 
 const container = document.getElementById('container');
 const gridSize = 16;
+body.appendChild(container);
 
 function divGrid () {
 
